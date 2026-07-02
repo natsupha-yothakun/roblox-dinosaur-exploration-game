@@ -1,3 +1,5 @@
+<img src="Game.png" width="900" alt="Stage 2 Quiz">
+
 # 🦕 Roblox Dinosaur Educational & Exploration Game (Group Project)
 
 Welcome to our Roblox game project! This is an interactive educational and exploration-based game designed to test players' knowledge about dinosaurs and their prehistoric eras. Players navigate through various stages, discover dinosaur facts, solve quizzes, and clear stages to achieve victory!

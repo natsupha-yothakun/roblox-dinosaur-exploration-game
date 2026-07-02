@@ -46,5 +46,5 @@ Experience and test your dinosaur knowledge directly on Roblox here:
 During development, we aimed to implement advanced character rigging and custom animations for the dinosaurs. However, due to the tight project timeline and the high complexity of manual multi-joint bone rigging for each dinosaur model, the dinosaurs in this version remain static. 
 
 We shifted our core focus to optimizing the educational logic, quiz mechanics, and user progression instead.
-*(ภาษาไทย: ในช่วงพัฒนา คณะผู้จัดทำตั้งใจจะทำระบบอนิเมชันและการจัดกระดูกโครงสร้าง (Rigging) ให้ไดโนเสาร์ขยับได้ แต่เนื่องจากระยะเวลาที่จำกัดและขั้นตอนการจัดกระดูกทีละข้อมีความซับซ้อนสูงมาก ทำให้ในเวอร์ชันนี้ไดโนเสาร์จะยังไม่สามารถโต้ตอบได้ เราจึงเลือกที่จะมุ่งเน้นไปที่การพัฒนาโมดูลความรู้ ระบบตอบคำถาม และการผ่านด่านของเกมให้สมบูรณ์และลื่นไหลที่สุดแทน)
-*
+(ในช่วงพัฒนา คณะผู้จัดทำตั้งใจจะทำระบบอนิเมชันและการจัดกระดูกโครงสร้าง (Rigging) ให้ไดโนเสาร์ขยับได้ แต่เนื่องจากระยะเวลาที่จำกัดและขั้นตอนการจัดกระดูกทีละข้อมีความซับซ้อนสูงมาก ทำให้ในเวอร์ชันนี้ไดโนเสาร์จะยังไม่สามารถโต้ตอบได้ เราจึงเลือกที่จะมุ่งเน้นไปที่การพัฒนาโมดูลความรู้ ระบบตอบคำถาม และการผ่านด่านของเกมให้สมบูรณ์และลื่นไหลที่สุดแทน)
+
